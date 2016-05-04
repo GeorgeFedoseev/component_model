@@ -1,0 +1,7 @@
+C:\Documents and Settings\student\My Documents\Visual Studio 2010\Projects\george_fedoseev_projects\CipherCompClient_ex3\CipherCompClient_ex3\bin\Debug\CipherCompClient_ex3.exe
+C:\Documents and Settings\student\My Documents\Visual Studio 2010\Projects\george_fedoseev_projects\CipherCompClient_ex3\CipherCompClient_ex3\bin\Debug\CipherCompClient_ex3.pdb
+C:\Documents and Settings\student\My Documents\Visual Studio 2010\Projects\george_fedoseev_projects\CipherCompClient_ex3\CipherCompClient_ex3\bin\Debug\CipherLib_ex3.dll
+C:\Documents and Settings\student\My Documents\Visual Studio 2010\Projects\george_fedoseev_projects\CipherCompClient_ex3\CipherCompClient_ex3\bin\Debug\CipherLib_ex3.pdb
+C:\Documents and Settings\student\My Documents\Visual Studio 2010\Projects\george_fedoseev_projects\CipherCompClient_ex3\CipherCompClient_ex3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\student\My Documents\Visual Studio 2010\Projects\george_fedoseev_projects\CipherCompClient_ex3\CipherCompClient_ex3\obj\x86\Debug\CipherCompClient_ex3.exe
+C:\Documents and Settings\student\My Documents\Visual Studio 2010\Projects\george_fedoseev_projects\CipherCompClient_ex3\CipherCompClient_ex3\obj\x86\Debug\CipherCompClient_ex3.pdb
