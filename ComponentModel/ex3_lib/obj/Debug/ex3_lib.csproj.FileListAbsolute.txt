@@ -1,0 +1,4 @@
+\\Mac\Host\Users\George\Projects\ComponentModel\ex3_lib\bin\Debug\ex3_lib.dll
+\\Mac\Host\Users\George\Projects\ComponentModel\ex3_lib\bin\Debug\ex3_lib.pdb
+\\Mac\Host\Users\George\Projects\ComponentModel\ex3_lib\obj\Debug\ex3_lib.dll
+\\Mac\Host\Users\George\Projects\ComponentModel\ex3_lib\obj\Debug\ex3_lib.pdb

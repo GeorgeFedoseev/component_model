@@ -1,0 +1,5 @@
+\\Mac\Host\Users\George\Projects\ComponentModel\ex1_lib\bin\Debug\ex1_lib.dll
+\\Mac\Host\Users\George\Projects\ComponentModel\ex1_lib\bin\Debug\ex1_lib.pdb
+\\Mac\Host\Users\George\Projects\ComponentModel\ex1_lib\obj\Debug\ex1_lib.csprojResolveAssemblyReference.cache
+\\Mac\Host\Users\George\Projects\ComponentModel\ex1_lib\obj\Debug\ex1_lib.dll
+\\Mac\Host\Users\George\Projects\ComponentModel\ex1_lib\obj\Debug\ex1_lib.pdb

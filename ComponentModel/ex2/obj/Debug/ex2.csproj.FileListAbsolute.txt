@@ -1,0 +1,8 @@
+\\Mac\Host\Users\George\Projects\ComponentModel\ex2\obj\Debug\ex2.csprojResolveAssemblyReference.cache
+\\Mac\Host\Users\George\Projects\ComponentModel\ex2\bin\Debug\ex2.exe.config
+\\Mac\Host\Users\George\Projects\ComponentModel\ex2\bin\Debug\ex2.exe
+\\Mac\Host\Users\George\Projects\ComponentModel\ex2\bin\Debug\ex2.pdb
+\\Mac\Host\Users\George\Projects\ComponentModel\ex2\bin\Debug\ex2_lib.dll
+\\Mac\Host\Users\George\Projects\ComponentModel\ex2\bin\Debug\ex2_lib.pdb
+\\Mac\Host\Users\George\Projects\ComponentModel\ex2\obj\Debug\ex2.exe
+\\Mac\Host\Users\George\Projects\ComponentModel\ex2\obj\Debug\ex2.pdb

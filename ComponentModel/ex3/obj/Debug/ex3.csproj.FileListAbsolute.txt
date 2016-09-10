@@ -1,0 +1,8 @@
+\\Mac\Host\Users\George\Projects\ComponentModel\ex3\bin\Debug\ex3.exe.config
+\\Mac\Host\Users\George\Projects\ComponentModel\ex3\bin\Debug\ex3.exe
+\\Mac\Host\Users\George\Projects\ComponentModel\ex3\bin\Debug\ex3.pdb
+\\Mac\Host\Users\George\Projects\ComponentModel\ex3\bin\Debug\ex3_lib.dll
+\\Mac\Host\Users\George\Projects\ComponentModel\ex3\bin\Debug\ex3_lib.pdb
+\\Mac\Host\Users\George\Projects\ComponentModel\ex3\obj\Debug\ex3.csprojResolveAssemblyReference.cache
+\\Mac\Host\Users\George\Projects\ComponentModel\ex3\obj\Debug\ex3.exe
+\\Mac\Host\Users\George\Projects\ComponentModel\ex3\obj\Debug\ex3.pdb

@@ -1,0 +1,8 @@
+\\Mac\Host\Users\George\Projects\ComponentModel\ex5\bin\Debug\ex5.exe.config
+\\Mac\Host\Users\George\Projects\ComponentModel\ex5\bin\Debug\ex5.exe
+\\Mac\Host\Users\George\Projects\ComponentModel\ex5\bin\Debug\ex5.pdb
+\\Mac\Host\Users\George\Projects\ComponentModel\ex5\bin\Debug\ex4_lib.dll
+\\Mac\Host\Users\George\Projects\ComponentModel\ex5\bin\Debug\ex4_lib.pdb
+\\Mac\Host\Users\George\Projects\ComponentModel\ex5\obj\Debug\ex5.exe
+\\Mac\Host\Users\George\Projects\ComponentModel\ex5\obj\Debug\ex5.pdb
+\\Mac\Host\Users\George\Projects\ComponentModel\ex5\obj\Debug\ex5.csprojResolveAssemblyReference.cache
